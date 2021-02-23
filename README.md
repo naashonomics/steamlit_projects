@@ -14,4 +14,4 @@ streamlit run streamlit_starting.py
 
 # Scikit Learn 
 
-1> Linear Regression : 
+1> Linear Regression : https://github.com/naashonomics/steamlit_projects/blob/main/sckit_learn_app/linear_regression.py 
