@@ -2,7 +2,7 @@
 
 streamlit run streamlit_starting.py 
 
-**OpenCV **
+#  OpenCV 
 
 1> Convert Image to Sketch : https://github.com/naashonomics/steamlit_projects/blob/main/opencv/sketch.py 
 
