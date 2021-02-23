@@ -11,3 +11,7 @@ streamlit run streamlit_starting.py
 # Plotly Express, Pandas 
 
 1> Stock App from CSV : https://github.com/naashonomics/steamlit_projects/tree/main/stock_app 
+
+# Scikit Learn 
+
+1> Linear Regression : 
