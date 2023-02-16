@@ -15,3 +15,17 @@ streamlit run streamlit_starting.py
 # Scikit Learn 
 
 1> Linear Regression : https://github.com/naashonomics/steamlit_projects/blob/main/sckit_learn_app/linear_regression.py 
+
+# Streamlit-Authenticator
+
+Step 1: Generate Pikle File for hashed passwords 
+python generatekeys.py 
+This would generate hashed_passwords.pkl
+
+Step 2: Check Orginal demo_pytube.py 
+streamlit run demo_pytube_orig.py
+
+Step3: Code added for login and logout for demo_pytube.py 
+streamlit run  demo_pytube.py
+
+
